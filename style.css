@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=Montserrat:wght@600&family=Poppins:wght@400;700&family=Raleway:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro&family=Vollkorn&display=swap');
+
+body {
+    background-color: #FFFAF5;
+}
+
+.nav-item, .nav-item a{
+    margin: 10px 15px;;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: #000958;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    color: #000958;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+   
+}
+
+hr {
+    border-top: 1px solid #000;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #000958;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.hero img {
+    object-position: center; /* Center the image within the element */
+    width: 70%;
+    margin-bottom: 1rem;
+}
+
+.hero button {
+    border: none;
+}
