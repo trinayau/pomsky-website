@@ -4,6 +4,16 @@ body {
     background-color: #FFFAF5;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
 .nav-item, .nav-item a{
     margin: 10px 15px;;
     font-size: 20px;
@@ -23,9 +33,10 @@ hr {
     border-top: 1px solid #000;
 }
 
-h1 {
+h1,h2, h3, h4 {
     font-family: 'Raleway', sans-serif;
     color: #000958;
+    font-weight: 700;
 }
 
 p {
@@ -34,10 +45,94 @@ p {
 
 .hero img {
     object-position: center; /* Center the image within the element */
-    width: 70%;
+    width: 75%;
     margin-bottom: 1rem;
 }
 
-.hero button {
-    border: none;
+
+.card-img {
+    height: 200px;
+    width: auto;
+}
+
+.card {
+    background-color: #FFF6ED;
+    border: none
+}
+
+
+.subscription.bg-white .subscription-wrapper {
+    background: #FFF6ED;
+}
+
+.subscription-wrapper {
+    border-radius: 15px;
+    padding: 25px 50px;
+    z-index: 1;
+    width: 100%;
+    top: 100px;
+    margin-bottom: 10px; 
+}
+
+
+
+h3,
+.h3 {
+    font-size: 30px
+}
+
+.flex-fill {
+    -ms-flex: 1 1 auto !important;
+    flex: 1 1 auto !important
+}
+
+.subscription.bg-white .form-control {
+    border: 1px solid #ebebeb !important
+}
+
+.subscription-wrapper .form-control {
+    height: 60px;
+   
+    border-radius: 45px
+}
+
+.subscription-wrapper .form-control:focus {
+    
+    outline: 0;
+    box-shadow: none
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer
+}
+
+.btn-primary {
+    border: 0;
+    color: #fff
+}
+
+.btn {
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+    padding: 18px 45px;
+    border-radius: 45px;
+    font-weight: 500;
+    border: 1px solid;
+    position: relative;
+    z-index: 1;
+    transition: .3s ease-in;
+    overflow: hidden
+}
+
+.btn-primary:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 102%;
+    height: 100%;
+    background: linear-gradient(45deg, #00a8f4 0%, #02d1a1 100%);
+    z-index: -1;
+    transition: ease 0.3s
 }
