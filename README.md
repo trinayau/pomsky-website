@@ -6,7 +6,7 @@
  It was an opportunity to show everyone photos of my Pomsky puppy, Mimi. I like to thank that I embraced every chance to do so in this project.
 
  ## 📔 Contents
- - [⌚ Project Timeline](#-project-timeline)
+ - [⌚ Project Brief](#-project-timeline)
  - [📃 Brief](#-brief)
  - [💡 Design  and development](#-design-and-development)
  - [🦺 Testing](#-testing)
@@ -16,3 +16,40 @@
  - [📚 What I learnt](#-what-i-learnt)
  - [⏳ Things I would change](#-things-i-would-change)
  - [🚙 Reflections and What Next](#-reflections-and-what-next)
+
+ ---
+
+## ⏰ Project Brief
+0:05 - 0:10 // Get a random subject courtesy of WikiRoulette
+0:10 - 0:20 // Read Wiki and do additional research for content
+0:20 - 0:45 // Design. No code. Use any tools you wish - pen & paper, Figma, wireframe.cc, MS Paint...!
+0:45 - 0:50 // Stand & Stretch
+0:50 - 1:50 // Code! We are not aiming for perfection. (We were told to aim for perfection)
+1:50 - 2:00 // Deploy to production and prepare presentation
+
+## 💡 Design and Development
+
+**🖌 Sketch Layout**
+
+Early wire-frame sketch ideas, including some features and functionality. Emphasis on UI/UX design.
+
+<img src="images/sketch.jpg" width="600px">
+
+**🎨 Figma**
+I designed a wireframe in Figma which can be found [here](https://www.figma.com/file/v39g8BoMKcmQ2fb5jAy84d/Pomsky?node-id=0%3A1)
+- This was my first wireframe for a project, and I added a lot of features
+- Designed for desktop, but intended to also be responsive for mobile
+- More developed design compared to the initial sketch
+- Multiple pages designed to cover important topics such as the characteristics of Pomskies and what is involved in their care
+
+**🎉 Deployed Site**
+
+The final deployed site includes:
+- Responsive nav bar that becomes a hamburger for mobile
+- Responsive ideo images that add excitement and cuteness to the page
+- Gradient buttons with a hover effect
+- Fleshed-out sections using Bootstrap cards to emphasise Pomsky challenges
+
+
+
+
