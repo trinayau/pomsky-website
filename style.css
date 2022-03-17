@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=Montserrat:wght@600&family=Poppins:wght@400;700&family=Raleway:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro&family=Vollkorn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=Lato&family=Montserrat:wght@600&family=Poppins:wght@400;700&family=Raleway:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Vollkorn&display=swap');
 
 body {
     background-color: #FFFAF5;
 }
+
+/*Navbar styling */
 
 a {
     text-decoration: none;
@@ -28,12 +30,13 @@ a:hover {
     font-weight: 400;
    
 }
+/*End of navbar styling */
 
 hr {
     border-top: 1px solid #000;
 }
 
-h1,h2, h4 {
+h1, h2, h3, h4 {
     font-family: 'Raleway', sans-serif;
     color: #000958;
     font-weight: 700;
@@ -43,12 +46,17 @@ p {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.brand-name {
+    color: #000958;
+    font-weight: 700;
+}
+
 .hero img {
     object-position: center; /* Center the image within the element */
     width: 75%;
     margin-bottom: 1rem;
 }
-
+/* Start of card styling for about page */
 
 .card-img {
     height: 200px;
@@ -59,22 +67,22 @@ p {
     background-color: #FFF6ED;
     border: none
 }
+/* End of card styling for about page */
 
+/* Start of subscription styling */
 
-.subscription.bg-white .subscription-wrapper {
+.subscription-wrapper {
     background: #FFF6ED;
 }
 
 .subscription-wrapper {
     border-radius: 15px;
-    padding: 25px 50px;
+    padding: 15px 40px;
     z-index: 1;
     width: 100%;
     top: 100px;
     margin-bottom: 10px; 
 }
-
-
 
 h3,
 .h3 {
@@ -86,13 +94,12 @@ h3,
     flex: 1 1 auto !important
 }
 
-.subscription.bg-white .form-control {
+.form-control {
     border: 1px solid #ebebeb !important
 }
 
 .subscription-wrapper .form-control {
     height: 60px;
-   
     border-radius: 45px
 }
 
@@ -136,3 +143,4 @@ h3,
     z-index: -1;
     transition: ease 0.3s
 }
+/* End of subscription box styling */
