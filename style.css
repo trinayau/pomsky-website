@@ -44,6 +44,7 @@ h1, h2, h3, h4 {
 
 p {
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
 }
 
 .brand-name {
@@ -144,3 +145,15 @@ h3,
     transition: ease 0.3s
 }
 /* End of subscription box styling */
+
+.credit p {
+    font-size: 15px;
+    font-family: font-family: 'Vollkorn', serif;
+}
+.credit a {
+    color:#000958;
+    transition: all ease-in-out 0.3s
+}
+.credit a:hover {
+    color:#00a8f4;
+}
