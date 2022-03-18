@@ -6,16 +6,10 @@
  It was an opportunity to show everyone photos of my Pomsky puppy, Mimi. I like to thank that I embraced every chance to do so in this project.
 
  ## 📔 Contents
- - [⌚ Project Brief](#-project-timeline)
- - [📃 Brief](#-brief)
+ - [⌚ Project Brief](#-project-brief)
  - [💡 Design  and development](#-design-and-development)
- - [🦺 Testing](#-testing)
- - [✔ Accessibility](#-accessibility)
- - [📷 Image and font licenses](#-image-and-font-licenses)
- - [🔎 Brief Review](#-brief-review)
  - [📚 What I learnt](#-what-i-learnt)
- - [⏳ Things I would change](#-things-i-would-change)
- - [🚙 Reflections and What Next](#-reflections-and-what-next)
+ - [🚙 Reflections](#-reflections)
 
  ---
 
@@ -49,7 +43,7 @@ I designed a wireframe in Figma which can be found [here](https://www.figma.com/
 - More developed design compared to the initial sketch
 - Multiple pages designed to cover important topics such as the characteristics of Pomskies and what is involved in their care
 
-<img src="images/figma.jpg" width="600px">
+<img src="images/figma.png" width="600px">
 
 **🎉 Deployed Site**
 
@@ -63,7 +57,7 @@ The final deployed site includes:
 
 <img src="images/final.png" width="600px">
 
-**💭 What I Learnt**
+## 💭 What I Learnt
 
 - Planning the layout and functions of a site
 - Making wireframe using Figma
@@ -75,7 +69,7 @@ The final deployed site includes:
 - Deploying on Netlify
 - Pomskies are very cute
 
-**⌛️ Reflection**
+## ⌛️ Reflections
 - Should have kept time limit more in mind when designing prototype and features
 - Test more often on mobile during coding process
 
