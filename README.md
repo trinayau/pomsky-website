@@ -42,6 +42,8 @@ I designed a wireframe in Figma which can be found [here](https://www.figma.com/
 - More developed design compared to the initial sketch
 - Multiple pages designed to cover important topics such as the characteristics of Pomskies and what is involved in their care
 
+<img src="images/figma.jpg" width="600px">
+
 **🎉 Deployed Site**
 
 The final deployed site includes:
@@ -49,6 +51,9 @@ The final deployed site includes:
 - Responsive ideo images that add excitement and cuteness to the page
 - Gradient buttons with a hover effect
 - Fleshed-out sections using Bootstrap cards to emphasise Pomsky challenges
+- Prototype page to discuss more about the design choices made during the project and challenges
+
+<img src="" width="600px">
 
 
 
