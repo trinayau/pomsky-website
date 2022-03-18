@@ -57,6 +57,13 @@ p {
     width: 75%;
     margin-bottom: 1rem;
 }
+
+.button-box {
+    text-align: left;
+    margin-top: 20px;
+}
+
+
 /* Start of card styling for about page */
 
 .card-img {
@@ -161,3 +168,17 @@ h3,
 }
 
 /* End of credit styling */
+
+@media only screen and (max-width: 1000px) {
+    .button-box {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    header {
+        text-align: center;
+    }
+    .vetbtn {
+        text-align: center;
+    }
+}
