@@ -146,6 +146,8 @@ h3,
 }
 /* End of subscription box styling */
 
+/* Start of credit styling */
+
 .credit p {
     font-size: 15px;
     
@@ -157,3 +159,5 @@ h3,
 .credit a:hover {
     color:#00a8f4;
 }
+
+/* End of credit styling */
