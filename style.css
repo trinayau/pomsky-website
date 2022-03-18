@@ -169,7 +169,7 @@ h3,
 
 /* End of credit styling */
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 966px) {
     .button-box {
         text-align: center;
         margin-top: 20px;
@@ -178,7 +178,7 @@ h3,
     header {
         text-align: center;
     }
-    
+
     .vetbtn {
         text-align: center;
     }
